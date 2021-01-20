@@ -1,6 +1,6 @@
 # Abaqus-UMAT-C++-subroutine
 
-The Requirements are MSVS and an Intel Compiler and the procedure can be found here: https://www.youtube.com/watch?v=T3hAV8gfnec. Shoutout to him.
+The Requirements are MSVS and an Intel Compiler. The procedure can be found here: https://www.youtube.com/watch?v=T3hAV8gfnec. Shoutout to him.
 
 First: Compilation of the cpp-file
 You need MSVS to create a object-file in the MSVS Terminal. The Compilation Flags can be found in the win86_64 file from Abaqus. 
